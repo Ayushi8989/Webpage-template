@@ -1,0 +1,35 @@
+a {
+    color: rgb(231, 229, 229);
+    text-decoration: none;
+  }
+  .content {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  nav {
+    margin: 10px auto 80px;
+    padding: 20px 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    border: 1px solid rgb(236, 230, 230);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  nav a {
+    margin-left: 12px;
+  }
+  nav .logo {
+    margin-right: auto;
+  }
+  
+  body{
+    background-image: url(../public/a-01.png);
+    height: 1246px;
+    width:1100px;
+    background-size:contain;
+    background-repeat: no-repeat;
+    margin: 50px 0;
+  }
