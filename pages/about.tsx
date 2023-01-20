@@ -9,7 +9,7 @@ const about = () => {
             <div className="boxx1"> 
             </div>
             <div className="about">
-            <p>Hi, I`m Ayushi Singh, a sophomore at IIIT Kalyani, West Bengal. I create illustrations, websites and everything in-between.</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae eum unde aut possimus</p>
 
             </div>
             <div className="text">Lorem Ipsum
